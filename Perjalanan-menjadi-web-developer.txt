@@ -1,0 +1,6 @@
+Perjalanan menjadi web developer
+1. Belajar dasar-dasar pemrograman
+2. Belajar HTML
+3. Belajar CSS
+4. Belajar Javascript
+5. Belajar framework Javascript
