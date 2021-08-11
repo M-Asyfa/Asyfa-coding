@@ -1,2 +1,2 @@
-# Asyfa-coding
-Repository coding punya Asyfa
+# Asyfa-rencana
+Repository daftar rencana satu tahun ke depan
