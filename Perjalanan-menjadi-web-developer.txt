@@ -4,3 +4,4 @@ Perjalanan menjadi web developer
 3. Belajar CSS
 4. Belajar Javascript
 5. Belajar framework Javascript
+6. Belajar membuat website
